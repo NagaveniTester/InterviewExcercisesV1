@@ -15,6 +15,8 @@ public class vowelorconsonant2new {
 			System.out.println("Is Vowel");
 		else
 			System.out.println("Is a consonant");
+		
+		//placing one more comment for github
 
 
 	}
